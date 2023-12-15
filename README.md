@@ -3,8 +3,8 @@
 ## I'm a Pavel.
 ### I'm studdent of SPbPU
 
-I like programming on
+I like math
 
 ```
-Python and C#
+And programming on Python
 ```
