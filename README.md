@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I'm a Pavel.
-### I'm studdent of SPbPU
+### I'm student of SPbPU
 
 I like math
 
